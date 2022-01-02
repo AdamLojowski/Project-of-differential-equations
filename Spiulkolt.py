@@ -7,4 +7,4 @@ def spiulkolot(ile):
 
 
 
-print(spiulkolot(20))
+print(spiulkolot(22))
